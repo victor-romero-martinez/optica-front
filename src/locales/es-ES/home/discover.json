@@ -1,0 +1,32 @@
+{
+  "title": "descubre nuestra selección",
+  "category": [
+    {
+      "id": 1,
+      "name": "mujeres",
+      "srcSet": {
+        "medium": "https://ik.imagekit.io/b0nghaep4/optica-test/tr:w-300,h-200,fo-top/womens.jpg?updatedAt=1713900545138",
+        "small": "https://ik.imagekit.io/b0nghaep4/optica-test/tr:w-240,h-160,fo-top/womens.jpg?updatedAt=1713900545138"
+      },
+      "alt": "hermosa mujer co gafas de sol"
+    },
+    {
+      "id": 2,
+      "name": "niños",
+      "srcSet": {
+        "medium": "https://ik.imagekit.io/b0nghaep4/optica-test/tr:w-300,h-200,fo-top/kids.jpg?updatedAt=1713900545138",
+        "small": "https://ik.imagekit.io/b0nghaep4/optica-test/tr:w-240,h-160,fo-top/kids.jpg?updatedAt=1713900545138"
+      },
+      "alt": "niño con gafas de sol"
+    },
+    {
+      "id": 3,
+      "name": "hombres",
+      "srcSet": {
+        "medium": "https://ik.imagekit.io/b0nghaep4/optica-test/tr:w-300,h-200,fo-top/mens.jpg?updatedAt=1713900545138",
+        "small": "https://ik.imagekit.io/b0nghaep4/optica-test/tr:w-240,h-160,fo-top/mens.jpg?updatedAt=1713900545138"
+      },
+      "alt": "hombre con gafas de sol"
+    }
+  ]
+}

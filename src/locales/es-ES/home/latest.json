@@ -1,0 +1,14 @@
+{
+  "subtitle": "latest",
+  "title": "opticool collection",
+  "description": "colección de las últimos artículos agregado a nuestra tienda online. Haga click abajo para ver todas las novedades.",
+  "callAction": {
+    "title": "ver mas",
+    "url": "#"
+  },
+  "srcSet": {
+    "small": "https://ik.imagekit.io/b0nghaep4/optica-test/tr:w-420,h-280,fo-center/mujer-random.jpg?updatedAt=1713902416947",
+    "medium": "https://ik.imagekit.io/b0nghaep4/optica-test/tr:w-600,h-400,fo-center/mujer-random.jpg?updatedAt=1713902416947",
+    "large": "https://ik.imagekit.io/b0nghaep4/optica-test/tr:w-000,h-450,fo-center/mujer-random.jpg?updatedAt=1713902416947"
+  }
+}

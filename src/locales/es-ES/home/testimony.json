@@ -1,0 +1,24 @@
+{
+  "title": "que dicen nuestros clientes",
+  "srcSet": {
+    "small": "https://ik.imagekit.io/b0nghaep4/optica-test/tr:w-560,h-315,fo-center/testimony-image.avif?updatedAt=1714076613013",
+    "medium": "https://ik.imagekit.io/b0nghaep4/optica-test/tr:w-800,h-450,fo-center/testimony-image.avif?updatedAt=1714076613013"
+  },
+  "testimony": [
+    {
+      "avatar": "https://avatar.iran.liara.run/public",
+      "name": "Kyrgyzstan",
+      "message": "Lorem ipsum dolor sit amet. Hic pariatur recusandae et sapiente maxime sed fugiat voluptatem ut sapiente natus. Aut molestiae reiciendis id recusandae sunt qui tempore quos aut recusandae deleniti et nemo voluptatem aut omnis voluptates!"
+    },
+    {
+      "avatar": "https://avatar.iran.liara.run/public",
+      "name": "Norfolk",
+      "message": "Lorem ipsum dolor sit amet. Hic pariatur recusandae et sapiente maxime sed fugiat voluptatem ut sapiente natus. Aut molestiae reiciendis id recusandae sunt qui tempore quos aut recusandae deleniti et nemo voluptatem aut omnis voluptates!"
+    },
+    {
+      "avatar": "https://avatar.iran.liara.run/public",
+      "name": "Mariana",
+      "message": "Lorem ipsum dolor sit amet. Hic pariatur recusandae et sapiente maxime sed fugiat voluptatem ut sapiente natus. Aut molestiae reiciendis id recusandae sunt qui tempore quos aut recusandae deleniti et nemo voluptatem aut omnis voluptates!"
+    }
+  ]
+}

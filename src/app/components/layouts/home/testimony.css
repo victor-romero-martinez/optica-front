@@ -1,0 +1,29 @@
+.testimony__background {
+  height: 450px;
+  background-repeat: no-repeat;
+}
+
+.testimony__title-container {
+  padding-left: 9rem;
+  
+  .testimony__title {
+    text-shadow: var(--c-seconday) 1px 2px 10px;
+    max-width: 260px;
+    font-size: 2.5rem;
+    user-select: none;
+  }
+}
+
+.testimony__customer-container {
+  max-width: 400px;
+  padding: 12px;
+
+  .testimony__customer {
+    padding: 2rem;
+    border: 4px solid var(--b-seconday);
+
+    p {
+      text-align: center;
+    }
+  }
+}

@@ -1,0 +1,10 @@
+.footer__inner {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 2rem 1rem;
+  padding-bottom: 1rem;
+
+  h4 {
+    padding-bottom: .5rem;
+  }
+}

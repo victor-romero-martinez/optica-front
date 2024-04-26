@@ -1,0 +1,124 @@
+[
+  {
+    "src": "https://ik.imagekit.io/b0nghaep4/optica-test/product/tr:w-210,h-140/turky-aviatoe-1.webp?updatedAt=1713991639824",
+    "title": "turkey",
+    "price": 20000,
+    "discount": 5,
+    "currency": "pyg",
+    "badge": [
+      "ray-ban",
+      "hombres",
+      "aviator"
+    ]
+  },
+  {
+    "src": "https://ik.imagekit.io/b0nghaep4/optica-test/product/tr:w-210,h-140/water-suqare-1.webp?updatedAt=1713991639874",
+    "title": "water square",
+    "price": 200000,
+    "discount": 5,
+    "currency": "pyg",
+    "badge": [
+      "ray-ban",
+      "hombres",
+      "cuadrado"
+    ]
+  },
+  {
+    "src": "https://ik.imagekit.io/b0nghaep4/optica-test/product/tr:w-240,h-160/ray-ban-browline-1.avif?updatedAt=1713991639540",
+    "title": "new wayfarer",
+    "price": 150000,
+    "discount": 15,
+    "currency": "pyg",
+    "badge": [
+      "ray-ban",
+      "hombres",
+      "oscuro"
+    ]
+  },
+  {
+    "src": "https://ik.imagekit.io/b0nghaep4/optica-test/product/tr:w-240,h-160/ray-ban-sport-ferrari-2.avif?updatedAt=1713991640436",
+    "title": "escudería Ferrari",
+    "price": 150000,
+    "discount": 15,
+    "currency": "pyg",
+    "badge": [
+      "ray-ban",
+      "hombres",
+      "ferrari",
+      "deportivo"
+    ]
+  },
+  {
+    "src": "https://ik.imagekit.io/b0nghaep4/optica-test/product/tr:w-240,h-160/belly-rounded-1.webp?updatedAt=1713991639638",
+    "title": "O'Leary",
+    "price": 39,
+    "discount": null,
+    "currency": "usd",
+    "badge": [
+      "o'leary",
+      "mujeres",
+      "redondeado"
+    ]
+  },
+  {
+    "src": "https://ik.imagekit.io/b0nghaep4/optica-test/product/tr:w-240,h-160/turky-aviatoe-1.webp?updatedAt=1713991639824",
+    "title": "turkey",
+    "price": 20000,
+    "discount": 5,
+    "currency": "pyg",
+    "badge": [
+      "ray-ban",
+      "hombres",
+      "aviator"
+    ]
+  },
+  {
+    "src": "https://ik.imagekit.io/b0nghaep4/optica-test/product/tr:w-240,h-160/water-suqare-1.webp?updatedAt=1713991639874",
+    "title": "water square",
+    "price": 200000,
+    "discount": 5,
+    "currency": "pyg",
+    "badge": [
+      "ray-ban",
+      "hombres",
+      "cuadrado"
+    ]
+  },
+  {
+    "src": "https://ik.imagekit.io/b0nghaep4/optica-test/product/tr:w-240,h-160/ray-ban-browline-1.avif?updatedAt=1713991639540",
+    "title": "new wayfarer",
+    "price": 150000,
+    "discount": 15,
+    "currency": "pyg",
+    "badge": [
+      "ray-ban",
+      "hombres",
+      "oscuro"
+    ]
+  },
+  {
+    "src": "https://ik.imagekit.io/b0nghaep4/optica-test/product/tr:w-240,h-160/ray-ban-sport-ferrari-2.avif?updatedAt=1713991640436",
+    "title": "escudería Ferrari",
+    "price": 150000,
+    "discount": 15,
+    "currency": "pyg",
+    "badge": [
+      "ray-ban",
+      "hombres",
+      "ferrari",
+      "deportivo"
+    ]
+  },
+  {
+    "src": "https://ik.imagekit.io/b0nghaep4/optica-test/product/tr:w-240,h-160/belly-rounded-1.webp?updatedAt=1713991639638",
+    "title": "O'Leary",
+    "price": 39,
+    "discount": null,
+    "currency": "usd",
+    "badge": [
+      "o'leary",
+      "mujeres",
+      "redondeado"
+    ]
+  }
+]

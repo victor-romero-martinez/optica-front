@@ -1,0 +1,37 @@
+{
+  "logo": {
+    "srcSet": {
+      "small": "https://ik.imagekit.io/b0nghaep4/tr:w-32,h-32/optica-test/logo.png?updatedAt=1713827961958",
+      "medium": "https://ik.imagekit.io/b0nghaep4/tr:w-64,h-64/optica-test/logo.png?updatedAt=1713827961958"
+    },
+    "alt": "logo de la empresa",
+    "url": "/"
+  },
+  "navbar": [
+    {
+      "name": "inicio",
+      "url": "/"
+    },
+    {
+      "name": "estilos",
+      "url": "#style"
+    },
+    {
+      "name": "colecciones principales",
+      "url": "#collections"
+    },
+    {
+      "name": "más populares",
+      "url": "#popular"
+    },
+    {
+      "name": "contáctenos",
+      "url": "#"
+    }
+  ],
+  "auth": {
+    "signin": "iniciar sesión",
+    "logout": "cerrar sesión",
+    "cart": "carrito"
+  }
+}

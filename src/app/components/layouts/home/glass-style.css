@@ -1,0 +1,9 @@
+.glass__container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+  gap: 2rem 1rem;
+}
+
+@continer (width > 800px) {
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+}

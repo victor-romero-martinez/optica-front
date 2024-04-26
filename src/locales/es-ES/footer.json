@@ -1,0 +1,96 @@
+{
+  "quickLinks": {
+    "title": "link rápido",
+    "links": [
+      {
+        "title": "crear una cuenta",
+        "url": "#"
+      },
+      {
+        "title": "buscar en la tienda",
+        "url": "#"
+      },
+      {
+        "title": "tarjetas de regalo",
+        "url": "#"
+      },
+      {
+        "title": "ofertas especiales",
+        "url": "#"
+      },
+      {
+        "title": "nuestra historia",
+        "url": "#"
+      }
+    ]
+  },
+  "brands": {
+    "title": "marcas",
+    "links": [
+      {
+        "title": "ray-ban",
+        "url": "#"
+      },
+      {
+        "title": "oakley",
+        "url": "#"
+      },
+      {
+        "title": "polaroid",
+        "url": "#"
+      },
+      {
+        "title": "carrera",
+        "url": "#"
+      },
+      {
+        "title": "arnette",
+        "url": "#"
+      }
+    ]
+  },
+  "customerCare": {
+    "title": "atención al cliente",
+    "links": [
+      {
+        "title": "estatus del orden",
+        "url": "#"
+      },
+      {
+        "title": "envíos & compras",
+        "url": "#"
+      },
+      {
+        "title": "garantías",
+        "url": "#"
+      },
+      {
+        "title": "preguntas frecuentes",
+        "url": "#"
+      }
+    ]
+  },
+  "help": {
+    "title": "necesitas ayuda",
+    "tell": {
+      "icon": "tell",
+      "number": 986670992,
+      "codeCountry": 595
+    },
+    "email": {
+      "icon": "email",
+      "address": "suduw@gevtu.pt"
+    },
+    "direction": {
+      "icon": "mapPointer",
+      "address": "1004 Fowaz View",
+      "country": "Azerbaijan"
+    }
+  },
+  "fallowUs": [
+    "facebook",
+    "twitter",
+    "instagram"
+  ],
+  "year": "2024 04 15"
+}

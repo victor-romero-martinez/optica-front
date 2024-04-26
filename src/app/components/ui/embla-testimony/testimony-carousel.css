@@ -1,0 +1,14 @@
+.embla-testimony {
+  overflow: hidden;
+}
+.embla__container-testimony {
+  display: flex;
+}
+.embla__slide-testimony {
+  flex: 0 0 100%;
+  min-width: 0;
+}
+
+.dot-testimony {
+  padding-top: 1rem;
+}

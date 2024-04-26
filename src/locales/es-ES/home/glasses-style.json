@@ -1,0 +1,55 @@
+{
+  "title": "encuentra tu estilo",
+  "style": [
+    {
+      "id": 1,
+      "name": "oscuro",
+      "srcSet": {
+        "small": "https://ik.imagekit.io/b0nghaep4/tr:w-112,h-63,fo-center/optica-test/bwoline-glasses.png?updatedAt=1713890898821",
+        "medium": "https://ik.imagekit.io/b0nghaep4/tr:w-160,h-90,fo-center/optica-test/bwoline-glasses.png?updatedAt=1713890898821"
+      },
+      "href": "#",
+      "alt": "gafas oscuras"
+    },
+    {
+      "id": 2,
+      "name": "aviador",
+      "srcSet": {
+        "small": "https://ik.imagekit.io/b0nghaep4/tr:w-112,h-63,fo-center/optica-test/aviator-glasses.png?updatedAt=1713890898821",
+        "medium": "https://ik.imagekit.io/b0nghaep4/tr:w-160,h-90,fo-center/optica-test/aviator-glasses.png?updatedAt=1713890898821"
+      },
+      "href": "#",
+      "alt": "gafas estilo aviador"
+    },
+    {
+      "id": 4,
+      "name": "cuadradas",
+      "srcSet": {
+        "small": "https://ik.imagekit.io/b0nghaep4/tr:w-112,h-63,fo-center/optica-test/square-glasses.png?updatedAt=1713890898821",
+        "medium": "https://ik.imagekit.io/b0nghaep4/tr:w-160,h-90,fo-center/optica-test/square-glasses.png?updatedAt=1713890898821"
+      },
+      "href": "#",
+      "alt": "gafas estilo cuadradas"
+    },
+    {
+      "id": 5,
+      "name": "redondeado",
+      "srcSet": {
+        "small": "https://ik.imagekit.io/b0nghaep4/tr:w-112,h-63,fo-centeroptica-test//retro-round-glasses.png?updatedAt=1713890898821",
+        "medium": "https://ik.imagekit.io/b0nghaep4/tr:w-160,h-90,fo-center/optica-test/retro-round-glasses.png?updatedAt=1713890898821"
+      },
+      "href": "#",
+      "alt": "gafas estilo redondeados"
+    },
+    {
+      "id": 3,
+      "name": "sport",
+      "srcSet": {
+        "small": "https://ik.imagekit.io/b0nghaep4/tr:w-112,h-63,fo-center/optica-test/sport-gafas.png?updatedAt=1713890898821",
+        "medium": "https://ik.imagekit.io/b0nghaep4/tr:w-160,h-90,fo-center/optica-test/sport-gafas.png?updatedAt=1713890898821"
+      },
+      "href": "#",
+      "alt": "gafas estilo deportivas"
+    }
+  ]
+}

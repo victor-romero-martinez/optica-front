@@ -1,0 +1,13 @@
+.latest__section {
+  height: 400px;
+  background-repeat: no-repeat;
+  background-position: right;
+
+  .latest__title {
+    max-width: 200px;
+  }
+
+  .latest__description {
+    max-width: 340px;
+  }
+}
