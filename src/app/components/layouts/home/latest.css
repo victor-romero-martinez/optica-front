@@ -2,12 +2,23 @@
   height: 400px;
   background-repeat: no-repeat;
   background-position: right;
-
-  .latest__title {
-    max-width: 200px;
+  
+  &>div {
+    flex-direction: column;
+    
+    .latest__title {
+      max-width: 240px;
+    }
+    .latest__description {
+      max-width: 300px;
+    }
   }
+}
 
-  .latest__description {
-    max-width: 340px;
+@media (width > 600px) {
+  .latest__section {
+    &>div {
+      flex-direction: row;
+    }
   }
 }
