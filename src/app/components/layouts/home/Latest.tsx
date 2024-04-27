@@ -10,9 +10,7 @@ import './latest.css';
 export default function Latest() {
   return (
     <Section>
-      <div className='pr br03 latest__section' style={{
-        backgroundImage: `linear-gradient(to left, transparent 40%, white 55%), url(${data.srcSet.large})`
-      }}>
+      <div className='pr br03 latest__section'>
         <div className='pa p-m df w-full'>
 
           <div className='f1'>
