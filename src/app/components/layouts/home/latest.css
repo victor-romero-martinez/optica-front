@@ -1,8 +1,6 @@
 .latest__section {
   height: 400px;
-  background-repeat: no-repeat;
-  background-position: right;
-  
+
   &>div {
     flex-direction: column;
     
@@ -17,6 +15,10 @@
 
 @media (width > 600px) {
   .latest__section {
+    background-image: linear-gradient(to left, transparent 40%, white 55%), url(https://ik.imagekit.io/b0nghaep4/optica-test/tr:w-000,h-450,fo-center/mujer-random.jpg?updatedAt=1713902416947);
+    background-repeat: no-repeat;
+    background-position: right;
+
     &>div {
       flex-direction: row;
     }
