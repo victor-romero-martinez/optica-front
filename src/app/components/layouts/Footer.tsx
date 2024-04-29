@@ -1,7 +1,9 @@
 import { capitalizer } from '@/libs/capitalizer'
+import { formatPhone } from '@/libs/format-phone.mjs'
 import { brands, customerCare, help, quickLinks, year } from '@/locales/es-ES/footer.json'
 import type { TFooterSection } from '@/types/footer-section'
-import { FacebookIcon, InstagramIcon, TwitterIcon } from '../icons'
+import { EmailIcon, FacebookIcon, InstagramIcon, MapPinIcon, PhoneIcon, TwitterIcon } from '../icons'
+
 import './footer.css'
 
 function FooterSection({ section }: { section: TFooterSection }) {
@@ -22,6 +24,8 @@ function FooterSection({ section }: { section: TFooterSection }) {
 }
 
 export default function Footer() {
+  const [_, phone] = formatPhone(help.tell.codeCountry, help.tell.number)
+
   return (
     <footer className='container mb1'>
       <div className='footer__inner'>
@@ -33,14 +37,14 @@ export default function Footer() {
             <div className='help'>
               <h4>{capitalizer(help.title)}</h4>
               <ul>
-                <li className='fs08'>
-                  <span>{help.tell.codeCountry}</span>{help.tell.number}
+                <li className='fs08 df aic g04'>
+                  <PhoneIcon width={18} height={18} /> {phone}
                 </li>
-                <li className='fs08'>
-                  {help.email.address}
+                <li className='fs08 df aic g04'>
+                  <EmailIcon width={18} height={18} /> {help.email.address}
                 </li>
-                <li className='fs08'>
-                  {help.direction.address}
+                <li className='fs08 df aic g04'>
+                  <MapPinIcon width={18} height={18} /> {help.direction.address}
                 </li>
               </ul>
             </div>
