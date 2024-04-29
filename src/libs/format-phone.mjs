@@ -6,8 +6,8 @@
  */
 export function formatPhone(code, phone) {
   const phoneString = checkLength(phone, 9);
-  let res = phoneString.match(/.{1,3}/g);
-  return [`+${code}${phone}`, `+${code} ${res?.join(" ")}`];
+  let res = phoneString.replace(/^(.{3})(,+)/, "$1 $2");
+  return [`+${code}${phone}`, `+${code} ${res}`];
 }
 
 /**
