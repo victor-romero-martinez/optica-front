@@ -1,7 +1,10 @@
 export { CartIcon } from "./CartIcon";
 export { CloseSquareIcon } from "./CloseSquareIcon";
+export { EmailIcon } from "./EmailIcon";
 export { FacebookIcon } from "./FacebookIcon";
 export { InstagramIcon } from "./InstagramIcon";
+export { MapPinIcon } from "./MapPinIcon";
 export { MenuIcon } from "./MenuIcon";
+export { PhoneIcon } from "./PhoneIcon";
 export { TwitterIcon } from "./TwitterIcon";
 export { UserIcon } from "./UserIcon";
