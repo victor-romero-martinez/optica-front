@@ -12,3 +12,9 @@
 .dot-testimony {
   padding-top: 1rem;
 }
+
+figure {
+  img {
+    border-radius: 50%;
+  }
+}
